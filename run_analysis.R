@@ -1,6 +1,6 @@
 ##########################################################################################################
 ## File Name: run_analysis.r
-## Coursera Getting and Cleaning Data Course Project
+## CourseName: Coursera Getting and Cleaning Data Course Project
 ## Submission Date: 2014-06-22
 ## Author: Rahul Sharma
 
