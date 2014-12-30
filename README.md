@@ -13,6 +13,7 @@ This repository cotains the following files:
 - run_analysis.R
 - codebook.md
 - README.md
+- codefile directory
 
 The purpose of the run_analysis.R is to achieve the following:
 1. Merges the training and the test sets to create one data set.
