@@ -7,8 +7,7 @@ This repo contains the `run_analysis.R` file that is capable of producing the ti
 
 ## Date of Submission - 06/22/2014
 ## Author - Rahul Sharma
-## Next Steps- Add More Comments
-
+## Next Steps- Add More Comments to enhance the documentation
 
 This repository cotains the following files:
 - run_analysis.R
